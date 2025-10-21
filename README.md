@@ -70,4 +70,14 @@ Shape/
 └── right_triangle.py
 ``` 
 Donde cada modulo cumple su función sin estar agrupado en un solo archivo con los demás
+```python
+# rectangle.py:
+from .rectangle import Rectangle
+
+class Square(Rectangle):
+    def __init__(self, side: float):
+        super().__init__(side, side)
+        self.set_is_regular(True)
+
+```
 
