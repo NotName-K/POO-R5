@@ -53,7 +53,7 @@ class Isosceles(Triangle):
 class Equilateral(Triangle):
 ....
 ```
-Opción 2: Modulos Individuales
+## Opción 2: Modulos Individuales
 Se sigue la siguiente estructura:
 ```markdown
 Shape/
