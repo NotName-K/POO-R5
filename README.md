@@ -1,2 +1,2 @@
 # POO-R5
-Modulos y Paquetes de Shape()
+Se modula el programa Shape() en uno y varios modulos
